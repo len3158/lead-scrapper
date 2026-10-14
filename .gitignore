@@ -1,0 +1,16 @@
+# Output
+*.csv
+leads.csv
+
+# Browser driver binaries
+chromedriver
+chromedriver.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
